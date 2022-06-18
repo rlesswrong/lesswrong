@@ -1,1 +1,1 @@
-# lesswrong
+https://rlesswrong.github.io/lesswrong/

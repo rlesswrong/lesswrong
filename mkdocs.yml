@@ -1,5 +1,5 @@
 site_name: lesswrong
-site_url: https://lesswongzh.github.io/lesswrong
+site_url: https://rlesswrong.github.io/lesswrong/
 theme:
   name: material
   #  favicon: attachment/portrait.png
@@ -25,7 +25,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-repo_url: https://github.com/lesswrongzh/awesome-tts
+repo_url: https://github.com/rlesswrong/lesswrong
 edit_uri: edit/main/docs/
 # nav:
 #   - home:
